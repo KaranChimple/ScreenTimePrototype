@@ -1,11 +1,16 @@
 # STATE.md — Project Memory
 
-## Last Session Summary
-Codebase mapping complete.
-- 2 components identified (App.tsx, AppDelegate.swift)
-- 4 production dependencies, 16 dev dependencies analyzed
-- 0 technical debt items found
-- Project is a fresh React Native 0.84 scaffold, ready for feature development
-
 ## Current Phase
-Not started — run `/new-project` to initialize project spec and roadmap.
+Phase 1: Swift Approval Engine (Not Started)
+
+## Last Session Summary
+Project initialized via `/new-project`.
+- SPEC.md finalized with 3 goals and 6 success criteria
+- ROADMAP.md created with 4 phases
+- Codebase mapped: fresh RN 0.84 scaffold, ready for feature development
+
+## Context
+- React Native 0.84.0 (New Architecture)
+- React 19.2.3
+- Swift iOS layer with RCTReactNativeFactory
+- iOS-only prototype
